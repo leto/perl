@@ -786,6 +786,8 @@ Rainer Weikusat was used; Daniel Burr also proposed a similar fix)
 
 =head2 F<perl5db.pl>
 
+The perl debugger upgraded from version 1.30 to 1.32
+
 C<LVALUE> subroutines now work under the debugger.
 
 The debugger now correctly handles proxy constant subroutines, and subroutine
